@@ -22,28 +22,30 @@ This Python script is designed to scrape historical stock data from Yahoo Financ
 1. Clone the repository:
    ```bash
    git clone https://github.com/inayatrahimdev/DEP-Internship.git
-'''
+   ```
+ 
 Navigate to the project directory:
 
-bash
-Copy code
+  ```bash
 cd DEP-Internship
+  ```
 Install the required library:
 
-bash
-Copy code
+```bash
 pip install requests
-Usage
+```
+## Usage
 Run the script:
-bash
-Copy code
+```bash
 python scraper.py
+```
 The data will be saved as yahoo_finance_stock_data.csv in the project directory.
-📣 Internship Context
+
+## 📣 Internship Context
 This project is part of Task 2 for my internship at Digital Empowerment Network (DEN). It demonstrates practical skills in web scraping and data management, contributing to my growth as a data science professional.
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to fork the repository, make improvements, and submit pull requests. Contributions are welcome!
 
-📧 Contact
-For any questions or feedback, reach out to me at [your-email@example.com].
+## 📧 Contact
+For any questions or feedback, reach out to me at [inayatrahim006@gmail.com].
