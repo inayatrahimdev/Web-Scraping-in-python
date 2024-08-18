@@ -4,7 +4,7 @@
 
 This Python script is designed to scrape historical stock data from Yahoo Finance and save it as a CSV file. This project was developed as part of Task 2 for my internship with Digital Empowerment Network (DEN), demonstrating my capabilities in web scraping, data extraction, and error management.
 
-## 🛠 Features
+## 🛠 **Features**
 
 - **Automatic Data Extraction**: Retrieves historical stock data for Apple Inc. from Yahoo Finance.
 - **CSV Output**: Saves the data in CSV format, ready for further analysis.
